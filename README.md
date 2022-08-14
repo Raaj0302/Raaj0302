@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raaj0302
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in App development
+- 🌱 I’m currently learning Flutter 
 
 
 <!---
